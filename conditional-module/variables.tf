@@ -1,0 +1,1 @@
+variable "feature_toggles" {}
